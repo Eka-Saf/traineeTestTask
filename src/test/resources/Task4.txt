@@ -1,1 +1,4 @@
-button.search3__button.mini-suggest_button[type="submit"] //CSS-селектор
+button.search3__button.mini-suggest__button[type="submit"] //CSS-селектор
+button.search3__button.mini-suggest__button //CSS-селектор
+button[type="submit"] //CSS-селектор
+/html/body/main/div[2]/form/div[2]/button  //xpath
